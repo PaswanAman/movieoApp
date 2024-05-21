@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movieoApp/static/css/main.2e42ad94.css",
+    "main.js": "/movieoApp/static/js/main.d770b5f0.js",
+    "static/js/453.0b30a3d5.chunk.js": "/movieoApp/static/js/453.0b30a3d5.chunk.js",
+    "static/media/logo.png": "/movieoApp/static/media/logo.5f76119f8f1f473eea2f.png",
+    "index.html": "/movieoApp/index.html",
+    "main.2e42ad94.css.map": "/movieoApp/static/css/main.2e42ad94.css.map",
+    "main.d770b5f0.js.map": "/movieoApp/static/js/main.d770b5f0.js.map",
+    "453.0b30a3d5.chunk.js.map": "/movieoApp/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e42ad94.css",
+    "static/js/main.d770b5f0.js"
+  ]
+}
